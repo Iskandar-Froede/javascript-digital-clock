@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Luckiest+Guy&family=Pangolin&display=swap');
 
 body {
-  background: conic-gradient(from .5turn at bottom center, lightblue, white);
+  background-image: linear-gradient(to bottom right, #FDFCFB, #E2D1C3);
   font-family: 'Luckiest Guy', cursive;
   overflow: hidden;
 }
@@ -21,7 +21,7 @@ body {
   margin: auto;
   padding: 10px;
   border-radius: 5px;
-  color: darkslateblue;
+  color: darkolivegreen;
   background-color: rgba(105, 105, 105, 0.1);
 
 }
